@@ -11,3 +11,21 @@ To improve communication between management and students about complaints and im
 - hostel blueprint
 - hostel rules
 - hostel updates
+
+---
+
+## TechStack
+- Frontend- ReactJS
+- Backend - Java Springboot
+- Database- MySQL
+
+---
+
+## Role
+- Student
+- Wardern
+- CareTaker
+- Management
+- Admin
+
+
